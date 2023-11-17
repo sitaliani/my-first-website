@@ -1,8 +1,8 @@
 Page 1
-  - Navigation Bar linking to all 4 pages
-  - 1 header using H1
-  - 3 sections of text with H2 headers
-  - 1 image
+  - Navigation Bar linking to all 4 pages (done)
+  - 1 header using H1 (done)
+  - 3 sections of text with H2 headers (done)
+  - 1 image (done)
 
 Page 2
   - Navigation Bar linking to all 4 pages
