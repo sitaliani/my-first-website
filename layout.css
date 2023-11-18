@@ -78,6 +78,7 @@ h4 {
     margin: auto;
     display: flex;
     justify-content: space-evenly;
+    vertical-align: middle;
 }
 
 .contact {
@@ -114,15 +115,78 @@ h4 {
 
 /* Work with us */
 
+div.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+
+}
+
 fieldset {
-    height: 430px;
-    width: 500px;
+    height: 440px;
+    width: 400px;
+    border-radius: 8px;
+    border-style: groove;
   }
 
-  legend {
-    border: solid 1px black; /* il bordo intorno a "send your request" */
+legend { /* il campo "send your request" */
     padding: 6px; /* la dimensione del box che racchiude "add user" */
     display: flex;
     margin-left: 0;
     border-radius: 8px;
+    border-style: groove;
   }
+
+table {
+    display:flex;
+    justify-content:space-around;
+  }
+
+  /* New Recipes */
+
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+
+.image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+
+.overlay-text {
+    position:absolute;
+    top: 5%;
+    left: 3%;
+    justify-content: space-evenly;
+    background-color: aliceblue;
+    opacity: 80%;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align: left;
+    margin: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+div.list {
+    color:rgba(253, 143, 161, 0.849);
+    background-color: transparent;
+    text-decoration: none;
+    font-size:large;
+}
+
+a.list {
+    color:rgba(253, 143, 161, 0.849);
+    background-color: transparent;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+.logo img {
+    width: 30px;
+    height: auto;
+}

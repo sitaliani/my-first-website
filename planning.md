@@ -8,12 +8,12 @@ Page 2 - work with us
   - Navigation Bar linking to all 4 pages (done)
   - HTML form with a minimum of:
     - 1 fieldset (done)
-    - 3 inputs
+    - 3 inputs (done)
        - 2 text
        - 1 checkbox
-    - 1 textarea
+    - 1 textarea (done)
     - Appropriate labels for the above
-    - 1 button
+    - 1 button (done)
 
 Page 3 - new recipes
   - Navigation Bar linking to all 4 pages
