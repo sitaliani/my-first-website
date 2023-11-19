@@ -78,7 +78,13 @@ h4 {
     margin: auto;
     display: flex;
     justify-content: space-evenly;
-    vertical-align: middle;
+    width: 100%;
+}
+
+table.last-line {
+    width: 80%;
+
+    justify-content: space-between;
 }
 
 .contact {
@@ -119,7 +125,6 @@ div.container {
     display: flex;
     justify-content: center;
     flex-wrap:wrap;
-
 }
 
 fieldset {
@@ -137,7 +142,7 @@ legend { /* il campo "send your request" */
     border-style: groove;
   }
 
-table {
+table.form {
     display:flex;
     justify-content:space-around;
   }

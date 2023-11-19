@@ -17,7 +17,7 @@ Page 2 - work with us
 
 Page 3 - new recipes
   - Navigation Bar linking to all 4 pages
-  - 1 header using H1
+  - 1 header using H1 (done)
   - 1 ordered or unordered list of links to 5 other websites
 
 Page 4 - all recipes
